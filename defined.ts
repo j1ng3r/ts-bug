@@ -20,3 +20,5 @@ if (is_undefined(y)) {
    // The following line does not compile, but it should
    takes_not_undefined(y);
 }
+
+export {};
